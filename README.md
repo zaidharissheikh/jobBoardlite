@@ -53,8 +53,8 @@ A beautiful, responsive job board application built with React, Vite, and Tailwi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/jobflow.git
-   cd jobflow
+   git clone https://github.com/yourusername/jobBoardlite.git
+   cd jobBoardlite
    ```
 
 2. **Install dependencies**
